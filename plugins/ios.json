@@ -1,0 +1,92 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cn.jpush.phonegap.JPushPlugin": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "com.hutchind.cordova.plugins.vitamio": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "com.synconset.imagepicker": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-hot-code-push-local-dev-addon": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-hot-code-push-plugin": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-baidu-geolocation": {
+            "API_KEY": "'MUU5GipE2DZYTfg48plG4yFV'",
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "org.apache.cordova.file": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "org.apache.cordova.file-transfer": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "wang.imchao.plugin.alipay": {
+            "PARTNER_ID": "2088021159844523",
+            "SELLER_ACCOUNT": "ryt@ruiyantong.com",
+            "PRIVATE_KEY": "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAPy7YnITWvqyxsjtQT8AvDwo7KE8tpJqyy9Q/QPNkMDL7I0xg1iLqe2DWDrfiKcFEaOQPhJi6M/a1utsk8BFyyvRAPku7KXJakgDv7Eojkumay+919jTyve41h0LmhLrTQbr00F3WQQg3Iqqg+QWQ1aMXd1m0oLuxLv8i7WS9ghPAgMBAAECgYAElsp009ElGDXv1A8JO9QvK3cQfm+6POIvm8LcXNEyDwHelnWSGAcf3vCtMP3kOn1VgPr/jng3vfuFDtWn+hx0R/x/3K2cW0CbUyQ0VHp5hyZBsJgi/uAPIXNlO29WaqZnHi0pJATPctFWaWjYqrM2ixasZtkiaz6XrtEaJE3gEQJBAP6FuUMY1Ptl/UEFJw9iOvssYAuaUw+hwSthV52jEtFfP/e09drhSc8ZfTyjBS8Y6dvL03jjLbKJyBig/4J2o50CQQD+Mv/9lMa5KE8eCxw8tb6SVkttAc5C28Q2AHTLNP0Xme2NOmidVraG8a95OXx5DAoY3Cbb9s4N+cj9/kvrfgXbAkB40Pc4/1+SGj6WD6ET71f6BH1u5ImLAQhV1DYn0NHM6v7NUWvmw0wq73mAQA3k5lmUCPPQDV6Swk5mSn4e6rwNAkAI9rVuNLvZNaGslom1XldNA7v/KQwj8Wn22YdEzyaJmYT18PRVcARZt9YPOUa5YgJNJB4+rXJQrdk3k6sLr9L3AkEA5S0dl8oo8fErCsnsN08ajy2gTFoo8Vtq8FObYNYmYX72Sg7kF3xYa9yv+6YK5BIy5mMdPFaObKo9bgQxfzWB3Q==",
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-plugin-wechat": {
+            "WECHATAPPID": "wxd04b8c76e4e8c63e",
+            "PACKAGE_NAME": "com.ruyton.app"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.ruyton.app"
+        }
+    },
+    "dependent_plugins": {}
+}

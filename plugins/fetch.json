@@ -1,0 +1,247 @@
+{
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-console": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-console"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-statusbar": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-statusbar"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "ionic-plugin-keyboard": {
+        "source": {
+            "type": "registry",
+            "id": "ionic-plugin-keyboard"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.hutchind.cordova.plugins.vitamio": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\Vitamio-Cordova-Plugin-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.ruyton.app.plugins.jpush.JPushPlugin": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\jpush-phonegap-plugin-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.ruyton.app.plugins.jpush": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\jpush-phonegap-plugin-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\uoload-plugin\\cordova-plugin-network-information"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.file": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\uoload-plugin\\org.apache.cordova.file"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.file-transfer": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\uoload-plugin\\org.apache.cordova.file-transfer"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-camera": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-camera"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file-transfer": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-file-transfer"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.synconset.imagepicker": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\cordova-imagePicker-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-baidu-geolocation": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Administrator\\Desktop\\cordova-plugin-baidu-geolocation-master"
+        },
+        "is_top_level": true,
+        "variables": {
+            "API_KEY": "'MUU5GipE2DZYTfg48plG4yFV'"
+        }
+    },
+    "cordova-plugin-x-toast": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\super\\Downloads\\Toast-PhoneGap-Plugin-master\\Toast-PhoneGap-Plugin-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-file"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-media": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-media"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-app-version": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/whiteoctober/cordova-plugin-app-version.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file-opener2": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pwlin/cordova-plugin-file-opener2.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-x-socialsharing": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cn.jpush.phonegap.JPushPlugin": {
+        "source": {
+            "type": "local",
+            "path": "F:\\nodejs-workspace\\RuyTonApp\\myplugin\\cn.jpush.phonegap.JPushPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-inappbrowser"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-hot-code-push-plugin": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-hot-code-push-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-hot-code-push-local-dev-addon": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-hot-code-push-local-dev-addon"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "wang.imchao.plugin.alipay": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/charleyw/cordova-plugin-alipay.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "PARTNER_ID": "2088021159844523",
+            "SELLER_ACCOUNT": "ryt@ruiyantong.com",
+            "PRIVATE_KEY": "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAPy7YnITWvqyxsjtQT8AvDwo7KE8tpJqyy9Q/QPNkMDL7I0xg1iLqe2DWDrfiKcFEaOQPhJi6M/a1utsk8BFyyvRAPku7KXJakgDv7Eojkumay+919jTyve41h0LmhLrTQbr00F3WQQg3Iqqg+QWQ1aMXd1m0oLuxLv8i7WS9ghPAgMBAAECgYAElsp009ElGDXv1A8JO9QvK3cQfm+6POIvm8LcXNEyDwHelnWSGAcf3vCtMP3kOn1VgPr/jng3vfuFDtWn+hx0R/x/3K2cW0CbUyQ0VHp5hyZBsJgi/uAPIXNlO29WaqZnHi0pJATPctFWaWjYqrM2ixasZtkiaz6XrtEaJE3gEQJBAP6FuUMY1Ptl/UEFJw9iOvssYAuaUw+hwSthV52jEtFfP/e09drhSc8ZfTyjBS8Y6dvL03jjLbKJyBig/4J2o50CQQD+Mv/9lMa5KE8eCxw8tb6SVkttAc5C28Q2AHTLNP0Xme2NOmidVraG8a95OXx5DAoY3Cbb9s4N+cj9/kvrfgXbAkB40Pc4/1+SGj6WD6ET71f6BH1u5ImLAQhV1DYn0NHM6v7NUWvmw0wq73mAQA3k5lmUCPPQDV6Swk5mSn4e6rwNAkAI9rVuNLvZNaGslom1XldNA7v/KQwj8Wn22YdEzyaJmYT18PRVcARZt9YPOUa5YgJNJB4+rXJQrdk3k6sLr9L3AkEA5S0dl8oo8fErCsnsN08ajy2gTFoo8Vtq8FObYNYmYX72Sg7kF3xYa9yv+6YK5BIy5mMdPFaObKo9bgQxfzWB3Q=="
+        }
+    },
+    "cordova-plugin-wechat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-wechat"
+        },
+        "is_top_level": true,
+        "variables": {
+            "WECHATAPPID": "wxd04b8c76e4e8c63e"
+        }
+    },
+    "cordova-sqlite-storage": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/brodysoft/Cordova-SQLitePlugin.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

@@ -1,0 +1,6 @@
+gulpfile.js
+**/img/**
+**/lib/**
+**/css/ionic.app.css
+**/.idea/**
+**/js/**

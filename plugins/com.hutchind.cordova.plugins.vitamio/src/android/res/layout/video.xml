@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/video_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:id="@+id/top_rel"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#21c05d"
+        >
+
+        <RelativeLayout
+            android:id="@+id/exitVideo"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+
+            >
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/back"
+                android:layout_centerVertical="true"
+
+                />
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/videoName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="标题"
+            android:textColor="#fff"
+            android:layout_centerInParent="true"
+
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/video_bg_image_rel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#21c05d"
+        >
+        <ImageView
+            android:id="@+id/video_bg_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/video_loading_bg"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,7 @@
+{
+  "name": "RuyTonApp",
+  "ios_identifier": "com.ruiyantong.RuyTonAppEnp",
+  "android_identifier": "com.ruyton.app",
+  "update": "start",
+  "content_url": "http://web.ruiyantong.com/www"
+}
